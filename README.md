@@ -48,6 +48,10 @@ Here's an example of how the application window looks:
    <img src="Untitled.png">
 
 
+## Download the Executable
+You can download the executable file from the [Releases](https://github.com/nakhani/bar-loading-gif-generator/releases) section.
+s
+
 ## Acknowledgments
 
 - [PySide6](https://pypi.org/project/PySide6/) - Python bindings for the Qt libraries.
