@@ -18,7 +18,7 @@ Loading Bar GIF Generator is a PySide6-based application that allows you to crea
 
 ## Installation
 
-1. Download the executable file from the [Releases](https://github.com/YourUsername/YourRepository/releases) section.
+1. Download the executable file from the [Releases](https://github.com/nakhani/bar-loading-gif-generator/releases) section.
 2. Run the executable file `loading_bar_generator.exe`.
 
 ## Usage
